@@ -1,0 +1,15 @@
+{
+  "name": "weather-window",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A quiet window onto the weather, wherever you are.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test",
+    "check": "node --check app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
