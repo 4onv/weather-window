@@ -1,5 +1,7 @@
 # Weather Window
 
+**[Open the app](https://4onv.github.io/weather-window/)**
+
 A quiet window onto the weather, wherever you are.
 
 ![App preview](assets/preview.jpg)
